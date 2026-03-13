@@ -1,6 +1,6 @@
 ### Olá, eu sou Gilson Souza 👋
 
-- 🌱 Estudando Analise e Desenvolvimento de Sistemas - Fatec Mogi das Cruzes
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas - Fatec Mogi das Cruzes
 - 🌱 Estudando Angular, MSQL e .NET
 - 📫 Contate-me no email: gilsonsouza.dev@gmail.com
 - 😄 Pronouns: ele/dele
