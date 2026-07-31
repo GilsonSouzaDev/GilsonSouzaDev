@@ -35,7 +35,6 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** pela Fatec Mogi das Cr
 <div align="center">
   <a href="https://github.com/GilsonSouzaDev">
     <img src="https://streak-stats.demolab.com/?user=GilsonSouzaDev&theme=dracula&hide_border=true" alt="Estatísticas do Gilson" height="170"/>
-    <img src="https://github-readme-stats.macp.workers.dev/api/top-langs/?username=GilsonSouzaDev&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Linguagens" height="170"/>
   </a>
 </div>
 
