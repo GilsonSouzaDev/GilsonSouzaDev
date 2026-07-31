@@ -34,8 +34,8 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** pela Fatec Mogi das Cr
 
 <div align="center">
   <a href="https://github.com/GilsonSouzaDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilsonSouzaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Gilson"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilsonSouzaDev&layout=compact&langs_count=8&theme=dracula" alt="Top Linguagens"/>
+    <img src="https://streak-stats.demolab.com/?user=GilsonSouzaDev&theme=dracula&hide_border=true" alt="Estatísticas do Gilson" height="170"/>
+    <img src="https://github-readme-stats.macp.workers.dev/api/top-langs/?username=GilsonSouzaDev&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Linguagens" height="170"/>
   </a>
 </div>
 
